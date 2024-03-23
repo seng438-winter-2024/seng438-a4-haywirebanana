@@ -80,6 +80,8 @@ Need to manually add test cases
 
 
 # How the team work/effort was divided and managed
+Briefly looking at the whole assignment and from small discussions with our peers, PIT testing would take a way longer time to figure out and run compared to that of the GUI testing. We decided to split up in a group of three for PIT while the other figured out GUI testing. Having three different laptops working on different aspects allowed us to compare our results and new improved testing much more efficiently even though each time we ran PIT testing, it took us almost 20 minutes. Through this we were able to compare our results in a timely fashion as this split allowed us all to finish around the same spot. After comparing and allowing other members to try out the other half they weren’t able to complete, it helped everyone in the group to understand each part of this lab.
+
 
 
 # Difficulties encountered, challenges overcome, and lessons learned
